@@ -1,0 +1,12 @@
+<resources>
+    <string name="app_name">TimelineBackendless</string>
+    <string name="user_filter">Nama :</string>
+    <string name="find_filter">Cari</string>
+
+    <string name="string_user_id">User ID</string>
+    <string name="string_title_post">Image Link</string>
+    <string name="string_detail_post">Detail</string>
+
+    <string name="string_send">Send</string>
+
+</resources>
